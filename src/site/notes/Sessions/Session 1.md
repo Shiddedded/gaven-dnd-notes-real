@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/sessions/session-1/","dg-note-properties":{}}
+---
+
+Session one took place on January 1st, 2025. 5/6 players. Luke missing
+session started in [[Locations/The Green Dolphin Tavern\|The Green Dolphin Tavern]]. The party got tother, with [[PC's/Caroline\|Caroline]], [[PC's/Ice D. Ragon\|Ice D. Ragon]] and [[PC's/Edward Ghoulious\|Edward Ghoulious]] meeting at a table. 
+A [[NPC's/Captain Sparkelz\|Captain Sparkelz]] enters and start to do tricks, one of which shrinks [[PC's/Ice D. Ragon\|Ice D. Ragon]]. She is still shrunk as of session two. 
+Something happens to the [[Items and Recipes/Odd necklace\|Odd Necklace]], causing it to break and explode, which levels [[Locations/The Green Dolphin Tavern\|The Green Dolphin Tavern]] and kills the [[NPC's/Captain Sparkelz\|Captain Sparkelz]]. After the dust settles, with the party being the only survivors, a tunnel that leads to the [[Locations/Green Dolphin Tavern Secret Basement\|Green Dolphin Tavern Secret Basement]]. 
+The party goes down the tunnel, finding the [[Locations/Green Dolphin Tavern Secret Basement\|Green Dolphin Tavern Secret Basement]], which is split into two rooms. One that had a bunch of cages in it, and one that was locked behind a magic lock. The lock was opened up using the [[Items and Recipes/Odd necklace\|Odd necklace]] and revealed a room filled with withered people in it. One tried to kill us, and [[PC's/Caroline\|Caroline]], trying to protect [[PC's/Edward Ghoulious\|Edward Ghoulious]], accidently kills the rest of the ash people in the room. 
+In this room, there was a desk, and in the desk was a  paper detailing an escape route and the [[Items and Recipes/Super Healing Potion Recipe\|Super Healing Potion Recipe]]. After the party leaves the basement, the police have arrived. Trying to keep a low profile, the party lies to the police about being in the basement, but one of the police officers recognizes one of the dead ash people as his son, and becomes enraged, causing the death of [[PC's/Edward Ghoulious\|Edward Ghoulious]]. 
